@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> **This repository has been archived and is read-only. Some similar/equivalent utilities can be found in https://github.com/ACCESS-NRI/access-parsers**
+
 # OM3Utils
 
 *A Python package of various utilities for the [ACCESS-OM3](https://github.com/COSIMA/access-om3) coupled ocean - sea ice - wave model.*
